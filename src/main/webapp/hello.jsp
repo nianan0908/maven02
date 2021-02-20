@@ -4,6 +4,6 @@
     <title>Title</title>
 </head>
 <body>
-    <h2>Hello Maven!</h2>
+
 </body>
 </html>
